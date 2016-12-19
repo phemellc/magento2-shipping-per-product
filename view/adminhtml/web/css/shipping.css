@@ -1,0 +1,16 @@
+.field-product_shipping_rate .addon {
+    direction: rtl;
+}
+
+.field-product_shipping_rate .addon > * {
+    direction: ltr;
+}
+
+.field-product_shipping_rate .addon > input {
+    width: 99px;
+    float: left;
+}
+
+.field-product_shipping_rate .addon .addafter {
+    border-width: 1px 0 1px 1px;
+}
